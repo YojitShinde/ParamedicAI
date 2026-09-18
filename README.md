@@ -1,6 +1,6 @@
 # ParamedicAI
 
-> A source-grounded wilderness and remote-emergency assistant for exploring how retrieval-augmented generation can support urgent field guidance.
+> A source-grounded remote-emergency assistant for exploring how retrieval-augmented generation can support urgent field guidance.
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/Architecture-RAG-0F766E)
