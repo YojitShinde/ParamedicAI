@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.env
+.env.*
+!.env.example
+
+chroma_db/
+Documents/*.pdf
+gemini_eval_results.json
+medical_accuracy_results.json
+medical_accuracy_smoke.json
+*.log
